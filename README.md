@@ -11,11 +11,11 @@ This dataset have the top 4 cinema operators in Malaysia as a data point (47569 
 
 ![](Images/githubcinemas.png)
 
-#Conclusion 
+# Conclusion 
 
 Data was scraped using Twitterscraper, data cleaning and manipulation were performed. Finally, the data was visualized using matplotlib and Seaborn 
 
-#Future work 
+# Future work 
 
 Conducting sentiment analysis using VaderSentiment python package or build my earn sentiment analyzer using Machine learning models. 
 

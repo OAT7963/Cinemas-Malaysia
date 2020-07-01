@@ -9,7 +9,15 @@ I retrieved data about cinemas in Malaysia from Twitter using Twitter Scraper pa
 ## Data Description
 This dataset have the top 4 cinema operators in Malaysia as a data point (47569 tweets in total), and for each, we have 21 columns, each column represents a different aspect or measure of the specific tweet.
 
+### Time of day distribution 
+
+The figure below display at what time of the day Malaysians tweets about cinemas.
 ![](Images/githubcinemas.png)
+
+
+### Top 50 users that tweet about cinema in 10 years
+
+Here we can see that MBOcinemas hired a really active social media manager!
 ![](Images/Top_50_users.png)
 
 

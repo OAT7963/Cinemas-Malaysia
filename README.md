@@ -10,6 +10,8 @@ I retrieved data about cinemas in Malaysia from Twitter using Twitter Scraper pa
 This dataset have the top 4 cinema operators in Malaysia as a data point (47569 tweets in total), and for each, we have 21 columns, each column represents a different aspect or measure of the specific tweet.
 
 ![](Images/githubcinemas.png)
+![](Images/Top_50_users.png)
+
 
 # Conclusion 
 

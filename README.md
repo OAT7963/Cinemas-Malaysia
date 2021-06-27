@@ -41,8 +41,8 @@ Figure 3. Best day of the week to go to the cinemas
 
 Data was scraped using Twitterscraper, data cleaning and manipulation were performed. Finally, the data was visualized using matplotlib and Seaborn 
 
-# Future work 
+<!-- # Future work 
 
 Conducting sentiment analysis using VaderSentiment python package or build my earn sentiment analyzer using Machine learning models. 
 
-Once I learn more about maching learning methods such as linear/logistic regression, naive bayes, decision tress, and linear support vector machine I can find fit and run the models
+Once I learn more about maching learning methods such as linear/logistic regression, naive bayes, decision tress, and linear support vector machine I can find fit and run the models -->

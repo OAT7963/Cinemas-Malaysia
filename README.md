@@ -20,6 +20,7 @@ Figure 2. Top 50 twitter users tweeting about cinemas
 ### Time of day distribution 
 
 ![](Images/githubcinemas.png)
+
 Figure 1. What time of the day Malaysians tweets about cinemas. 
 
 -------------------------------------------

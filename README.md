@@ -13,7 +13,7 @@ This dataset have the top 4 cinema operators in Malaysia as a data point (47569 
 
 Here we can see that MBOcinemas hired a really active social media manager!
 ![](Images/Top_50_users.png)
-Figure 2. Top 50 twitter users tweeting about cinemas 
+Figure 1. Top 50 twitter users tweeting about cinemas 
 
 -------------------------------------------
 
@@ -21,7 +21,7 @@ Figure 2. Top 50 twitter users tweeting about cinemas
 
 ![](Images/githubcinemas.png)
 
-Figure 1. What time of the day Malaysians tweets about cinemas. 
+Figure 2. What time of the day Malaysians tweets about cinemas. 
 
 -------------------------------------------
 
